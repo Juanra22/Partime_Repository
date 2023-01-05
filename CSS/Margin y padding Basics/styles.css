@@ -1,0 +1,33 @@
+body {
+    max-width: 600px;
+    margin: 0 auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+  }
+  
+  .one {
+    background: pink;
+    border: 3px solid black;
+    /* CAMBIAR */
+    padding: 32px;
+    margin: 12px;
+    text-align: center;
+  }
+  
+  .two {
+    background: lightblue;
+    border: 3px solid black;
+    /* CAMBIAR */
+    margin-bottom: 48px;
+  }
+  
+  .three {
+    background: peachpuff;
+    border: 3px solid black;
+    width: 200px;
+    /* CAMBIAR */
+    padding: 32px;
+    margin-left: 320px;
+    text-align: center;
+    
+  }
